@@ -1,5 +1,27 @@
 <h1 align="center">👋 Hi, I'm Sanjarbek Arabboyev</h1>
 
+### 🥋 Codewars Badge
+
+[![Codewars](https://www.codewars.com/users/SANJRBEK/badges/large)](https://www.codewars.com/users/SANJRBEK)
+
+---
+
+### 🧠 Monkeytype Profile
+
+[![Monkeytype](https://img.shields.io/badge/Monkeytype-Profile-orange)](https://monkeytype.com/profile/sanjarbek2010)
+
+---
+
+### 📊 GitHub Stats
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=sanjarcik&count_private=true&show_icons=true&line_height=40&theme=holi)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sanjarcik&langs_count=5&hide=html,cmake&theme=holi)
+
+![](https://komarev.com/ghpvc/?username=sanjarcik&color=blue&theme=onedark)
+
+---
+
 <p align="center">
   🧑‍💻 Frontend Developer | 🎯 JavaScript Enthusiast | 🌱 Lifelong Learner
 </p>
@@ -34,28 +56,6 @@
 ### 💻 Tech Stack (icons)
 
 <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,github,vscode" alt="My Skills" />
-
----
-
-### 🥋 Codewars Badge
-
-[![Codewars](https://www.codewars.com/users/SANJRBEK/badges/large)](https://www.codewars.com/users/SANJRBEK)
-
----
-
-### 📊 GitHub Stats
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=sanjarcik&count_private=true&show_icons=true&line_height=40&theme=holi)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sanjarcik&langs_count=5&hide=html,cmake&theme=holi)
-
-![](https://komarev.com/ghpvc/?username=sanjarcik&color=blue&theme=onedark)
-
----
-
-### 🧠 Monkeytype Profile
-
-[![Monkeytype](https://img.shields.io/badge/Monkeytype-Profile-orange)](https://monkeytype.com/profile/sanjarbek2010)
 
 ---
 
