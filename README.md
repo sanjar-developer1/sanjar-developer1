@@ -13,11 +13,11 @@
 ---
 
 ### 📊 GitHub Stats
-[![GitHub stats](https://github-readme-stats.vercel.app/api?username=sanjarcik&count_private=true&show_icons=true&line_height=40&theme=holi)](https://github.com/sanjarcik)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sanjarcik&langs_count=5&hide=html,cmake&theme=holi)](https://github.com/sanjarcik)
+| [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=sanjarcik&show_icons=true&theme=dark&count_private=true)](https://github.com/sanjarcik) | [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sanjarcik&layout=compact&theme=dark&langs_count=10&hide=cmake)](https://github.com/sanjarcik) |
 
-  
-![Profile Views](https://komarev.com/ghpvc/?username=sanjarcik&color=blue&theme=onedark)
+---
+
+![Profile Views](https://komarev.com/ghpvc/?username=sanjarcik&color=blue)
 
 ---
 
