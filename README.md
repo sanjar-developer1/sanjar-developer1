@@ -25,9 +25,9 @@
 
 ### 🧠 About Me
 
-- 💻 React.js, HTML, CSS, JavaScript bilan ishlayman  
-- 🌱 Har kuni yangi narsalarni o‘rganaman  
-- ⚛️ Asosan JSX va komponent asosida ishlayman  
+- 💻 I work with React.js, HTML, CSS, JavaScript
+- 🌱 I learn and explore new things every day.
+- 🎯 My direction: **Front-end (React, HTML, CSS, JS, Vue)
 
 ---
 
