@@ -15,8 +15,8 @@
 ### 📊 GitHub Stats
 [![GitHub stats](https://github-readme-stats.vercel.app/api?username=sanjarcik&count_private=true&show_icons=true&line_height=40&theme=holi)](https://github.com/sanjarcik)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sanjarcik&langs_count=5&hide=html,cmake&theme=holi)](https://github.com/sanjarcik)
-![Profile Views](https://komarev.com/ghpvc/?username=sanjarcik&color=blue&theme=onedark)
 
+![Profile Views](https://komarev.com/ghpvc/?username=sanjarcik&color=blue&theme=onedark)
 
 ---
 
