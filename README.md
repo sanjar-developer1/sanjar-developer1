@@ -13,18 +13,10 @@
 ---
 
 ### 📊 GitHub Stats
+[![GitHub stats](https://github-readme-stats.vercel.app/api?username=sanjarcik&count_private=true&show_icons=true&line_height=40&theme=holi)](https://github.com/sanjarcik)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sanjarcik&langs_count=5&hide=html,cmake&theme=holi)](https://github.com/sanjarcik)
+![Profile Views](https://komarev.com/ghpvc/?username=sanjarcik&color=blue&theme=onedark)
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=sanjarcik&count_private=true&show_icons=true&line_height=40&theme=holi)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sanjarcik&langs_count=5&hide=html,cmake&theme=holi)
-
-![](https://komarev.com/ghpvc/?username=sanjarcik&color=blue&theme=onedark)
-
----
-
-<p align="center">
-  🧑‍💻 Frontend Developer | 🎯 JavaScript Enthusiast | 🌱 Lifelong Learner
-</p>
 
 ---
 
@@ -47,9 +39,9 @@
 
 ### 🚧 My Goals
 
-- ✅ Har kuni GitHub’da kod yozish  
-- ✅ Codewars orqali algoritmik fikrlashni rivojlantirish  
-- ✅ Portfolio loyihalarini yaratish va ulashish  
+- ✅ Writing code on GitHub every day
+- ✅ Developing algorithmic thinking through Codewars
+- ✅ Creating and sharing portfolio projects
 
 ---
 
