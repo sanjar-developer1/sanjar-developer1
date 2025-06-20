@@ -1,4 +1,4 @@
-<h1 align="center">👋 Hi, I'm Sanjarbek Arabboyev</h1>
+<h1 align="center">👋 Hi, I'm Sanjarbek</h1>
 
 ### 🥋 Codewars Badge
 
