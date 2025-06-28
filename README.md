@@ -31,7 +31,7 @@
 
 ### 🧠 About Me
 
-- 💻 I work with React.js, HTML, CSS, JavaScript
+- 💻 I work with React.js, HTML, CSS and JavaScript
 - 🌱 I learn and explore new things every day.
 - 🎯 My direction: **Front-end (React, HTML, CSS, JS, Vue)
 
