@@ -14,9 +14,17 @@
 
 ### 📊 GitHub Stats
 
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=sanjar-developer1&show_icons=true&theme=dark&count_private=true)](https://github.com/sanjar-developer1)
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sanjar-developer1&layout=compact&theme=dark&langs_count=10&hide=cmake,shell)](https://github.com/sanjar-developer1)
+<p align="center">
+  <a href="https://github.com/sanjar-developer1">
+    <img src="https://github-readme-stats.vercel.app/api?username=sanjar-developer1&show_icons=true&theme=dark&count_private=true" alt="GitHub Stats" />
+  </a>
+</p>
 
+<p align="center">
+  <a href="https://github.com/sanjar-developer1">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sanjar-developer1&layout=compact&theme=dark&langs_count=10&hide=cmake,shell" alt="Top Languages" />
+  </a>
+</p>
 ---
 
 ![Profile Views](https://komarev.com/ghpvc/?username=sanjar-developer1&color=blue)
