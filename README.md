@@ -16,15 +16,13 @@
 
 <p align="center">
   <a href="https://github.com/sanjar-developer1">
-    <img src="https://github-readme-stats.vercel.app/api?username=sanjar-developer1&show_icons=true&theme=dark&count_private=true" alt="GitHub Stats" />
+    <img width="400" src="https://github-readme-stats.vercel.app/api?username=sanjar-developer1&show_icons=true&theme=dark&count_private=true" />
+  </a>
+  <a href="https://github.com/sanjar-developer1">
+    <img width="400" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sanjar-developer1&layout=compact&theme=dark&langs_count=10&hide=cmake,shell" />
   </a>
 </p>
 
-<p align="center">
-  <a href="https://github.com/sanjar-developer1">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sanjar-developer1&layout=compact&theme=dark&langs_count=10&hide=cmake,shell" alt="Top Languages" />
-  </a>
-</p>
 ---
 
 ![Profile Views](https://komarev.com/ghpvc/?username=sanjar-developer1&color=blue)
