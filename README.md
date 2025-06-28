@@ -1,6 +1,6 @@
 <h1 align="center">👋 Hi, I'm Sanjarbek</h1>
 
-### 🥋 Codewars Badge
+### 🥋 Codewars Stats
 
 [![Codewars](https://www.codewars.com/users/SANJRBEK/badges/large)](https://www.codewars.com/users/SANJRBEK)
 
