@@ -53,9 +53,9 @@
 
 ### 🚧 My Goals
 
-- ✅ Writing code on GitHub every day
-- ✅ Developing algorithmic thinking through Codewars
-- ✅ Creating and sharing portfolio projects
+- ✅ Writing code on GitHub every day.
+- ✅ Developing algorithmic thinking through Codewars.
+- ✅ Creating and sharing portfolio projects.
 
 ---
 
