@@ -62,7 +62,7 @@
 
 ### 💻 Tech Stack (icons)
 
-<img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,github,vscode" alt="My Skills" />
+<img src="https://skillicons.dev/icons?i=html,css,js,react,vue,tailwind,github,vscode" alt="My Skills" />
 
 ---
 
