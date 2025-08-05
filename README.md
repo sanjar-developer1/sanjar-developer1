@@ -1,7 +1,7 @@
 
 <h1 align="center">
   Hello <img src="https://em-content.zobj.net/source/microsoft-teams/363/waving-hand_1f44b.png" width="30px"/>, I'm Sanjarbek
-</h1>
+</h1> 
 <h3 align="center">🚀 On my journey to become a Frontend Developer</h3>
 
 
