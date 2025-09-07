@@ -38,7 +38,7 @@
 
 - 💻 I work with React.js, HTML, CSS and JavaScript
 - 🌱 I learn and explore new things every day.
-- 🎯 My direction: Front-end (React.Js HTML CSS JavaSacript Vue)
+- 🎯 My direction: Front-end (React.Js, HTML, CSS, JavaSacript, Vue)
 
 ---
 
