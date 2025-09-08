@@ -3,7 +3,6 @@
   Hello <img src="https://em-content.zobj.net/source/microsoft-teams/363/waving-hand_1f44b.png" width="30px"/>, I'm Sanjarbek
 </h1> 
 
----
 <div align="center">
   <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=30&duration=2500&pause=500&color=00C3FF&center=true&vCenter=true&width=500&lines=React+JS+Developer;Vue+JS+Developer;Frontend+Enthusiast;Clean+Code+Advocate;Active+Github+Contributor;Codewars+Active+User;Hireable;Always+Learning+%F0%9F%92%AA" alt="Typing SVG"/>
 </div>
